@@ -1,1 +1,1 @@
-# Adaptive-Regime-Based-Strategy-Engine
+# Regime Aware Trading System
