@@ -1,5 +1,5 @@
 # Regime Aware Trading System
-This project implements a **regime-aware trading system** that adapts its strategy based on market regimes. It uses macroeconomic and price-based indicators to detect regimes (e.g., bull, bear, sideways), then applies tailored strategies within each regime. The system is backtested using historical SPY data, with risk controls such as stop-losses and position sizing in place.
+This project implements a **regime-aware trading system** that adapts its strategy based on market regimes. It uses macroeconomic and price-based indicators to detect regimes like bull and bear, then applies tailored strategies within each regime. The system is backtested using historical SPY data, with risk controls such as stop-losses and position sizing in place.
 
 ---
 
